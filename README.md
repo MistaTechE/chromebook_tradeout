@@ -1,2 +1,4 @@
 # chromebook_tradeout
 Chromebook tradeout app that will save us hours every week and improve accuracy.
+
+Currently when we change out Chromebooks it can take up to 5 minutes and doesn't have any functionality to ensure the chromebook being traded out actually was assigned to the person trading it out. Checking that would take an extra minute and doesn't always happen. Also later in the year when chromebooks may have been traded out and fixed and handed out again multiple times, looking to see the current assigned person requires looking through 100's of lines of three different sheets. Sometimes the chromebook appears over 10 times and that requires figuring out which was the most recent assignment. This tool will enable us to scan the chromebook tag and and immediately find out who the chromebook belongs to, and then scan in the next chromebook that the old/broken one is being traded for. 
